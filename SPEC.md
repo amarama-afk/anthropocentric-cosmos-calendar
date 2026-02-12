@@ -21,6 +21,18 @@ Physical now → present: **13 797 312 026 ACC ±0** (label) / ±~23 Myr (mappin
 ## Companion Notation
 Holocene Era (HE): Gregorian + 10,000 → 2026 = 12026 HE (ideal for historical band).
 
+## Sub-Year Notation & Hybrid with HE
+For deep-time events (pre-~12 ka), use integer ACC only—no sub-year needed, as uncertainties dominate.  
+For recent/human-scale (post-~12 ka), prefer **HE** for precision:  
+- Format: YYYY-MM-DD [HE] (e.g., February 12, 2026 = **12026-02-12 HE**).  
+- Time optional: **12026-02-12T14:30:00Z HE** (UTC example).  
+
+Optional hybrid for ACC continuity (display/convention only; not core label):  
+- Append sub-tail: [ACC head + tail]-[MM-DD]  
+- Example (February 12, 2026): **13 797 312 926-02-12 ACC** (±0 label; sub-tail "926" as mnemonic day/month concat—e.g., 9 for September-like offset or day-of-year proxy; adjust logic as needed).  
+- Time: **13 797 312 926-02-12T14:30:00Z ACC**.  
+This keeps ACC linear but defers fine-grained to HE to avoid precision illusions.
+
 ## Anchor Points
 See [anchors.md](anchors.md) for full table with values, uncertainties, rounding, and ≈ glosses.
 
