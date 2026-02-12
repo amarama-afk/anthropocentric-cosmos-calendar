@@ -1,8 +1,8 @@
 # ACC Anchor Points (ACC-Planck18 Epoch)
 
 These are key chronological markers on the ACC timeline, rounded to respect uncertainty bands (displayed precision ≤ uncertainty).  
-Current epoch: **ACC-Planck18** (base universe age 13.797 ± 0.023 Gyr from Planck 2018 primary fit; some summaries round to ~13.787–13.799 Gyr, all within error).  
-"Now" label (early 2026 illustrative): **13 797 312 026 ACC ±0** (index exact) / ±~23 Myr physical mapping.  
+Current epoch: ACC-Planck18 (base universe age 13.797 ± 0.023 Gyr from Planck 2018 primary fit; some summaries round to ~13.787–13.799 Gyr, all within error).  
+"Now" label (early 2026 illustrative): 13 797 312 026 ACC ±0 (index exact) / ±~23 Myr physical mapping.  
 Values = approximate ACC at event midpoint; uncertainties are 1σ where sourced, illustrative otherwise.
 
 | #  | Event / Marker                                      | ACC Value                  | Uncertainty          | ≈ Years Ago          | Notes / Source Type                  |
