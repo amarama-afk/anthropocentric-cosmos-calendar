@@ -1,6 +1,6 @@
 # ACC Anchor Points (ACC-Planck18 Epoch)
 
-These are key chronological markers on the ACC timeline, rounded to respect uncertainty bands (displayed precision ≤ uncertainty).  
+These are some key chronological markers on the ACC timeline, rounded to respect uncertainty bands (displayed precision ≤ uncertainty). The purpose is to showcase how the ACC is used in practice and to familiarise you with the ACC timeline.
 Current epoch: **ACC-Planck18** (base universe age 13.797 ± 0.023 Gyr from Planck 2018 primary fit; some summaries round to ~13.787–13.799 Gyr, all within error).  
 "Now" label (early 2026 illustrative): 13 797 312 026 ACC ±0 (index exact) / ±~23 Myr physical mapping.  
 Values = approximate ACC at event midpoint; uncertainties are 1σ where sourced, illustrative otherwise.
@@ -39,6 +39,4 @@ Values = approximate ACC at event midpoint; uncertainties are 1σ where sourced,
 - **Expansion potential**: Add more (e.g., Neolithic sites, Industrial Revolution specifics, future anchors like year 3000 = ~13 797 313 000 ACC) via pull requests.
 - **Conversion tip**: ACC ≈ (13.797 × 10^9 - years_ago) + mnemonic_offset; adjust for exact days in future updates.
 
-Feel free to edit, add sources/links (e.g., Wikipedia Geology pages, Nature papers on Jebel Irhoud), or refine uncertainties. This table now covers a broader sweep from cosmology → geology → biology → human history while staying true to ACC principles.
-
-If you'd like even more anchors (e.g., 30–40), specific additions (like end of last Ice Age ~11.7 ka, or future projections), or a CSV export version for tools, let me know! 🌌🕰️
+If you want to suggest additional anchors, let me know.
