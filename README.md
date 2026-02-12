@@ -22,6 +22,7 @@ It extends the spirit of the **Holocene Era (HE)** calendar (adding 10,000 to Gr
 - Solar System formation: ~9 230 000 000 ACC ±160 kyr.
 - Full anchors → [anchors.md](anchors.md)
 - Rules & philosophy → [SPEC.md](SPEC.md)
+- Full explanation → [acc-explanation.md](acc-explanation.md)
 
 ### Current Epoch
 **ACC-Planck18**  
